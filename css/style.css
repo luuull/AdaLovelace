@@ -100,3 +100,11 @@ a {
     padding-left: 0;  
 }
 
+.other {
+    text-align: center;
+    font-weight: lighter;
+    display: block;
+    font-size: smaller;
+    text-decoration: underline;
+}
+

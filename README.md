@@ -5,5 +5,6 @@ Site feito durante o [curso "Eu ProgrAmo"](https://euprogramo.thinkific.com/cour
 
 This page was made during [programaria classes](https://euprogramo.thinkific.com/courses/curso-onlineeu-programo-turma-18).
 
+<br><br>
 
 https://luuull.github.io/AdaLovelace
